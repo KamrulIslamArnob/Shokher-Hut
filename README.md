@@ -1,7 +1,7 @@
 
 ![Logo](Team-GenZ-gif.gif)
 
-# Shokher-Hut (An IoT based smart Cow Selling System during Eid al-Adha)
+# Shokher-Hut (An IoT based Smart Cow Selling Hut During Eid al-Adha)
 
 The "Shokher Hut" project is an innovative IoT-based Cow Selling System aimed at revolutionizing the process of buying and selling cows in Bangladesh during the auspicious occasion of Eid al-Adha. This project integrates cutting-edge electronic features to enhance convenience, safety, and transparency for both buyers and sellers.
 
