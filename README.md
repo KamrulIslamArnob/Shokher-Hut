@@ -7,7 +7,7 @@ The "Shokher Hut" project is an innovative IoT-based Cow Selling System aimed at
 
 # Features
 
-### Computerized Hasil Counter
+### A. Computerized Hasil Counter
 
 1. **Streamlined and Secure Transactions:** The heart of the "Shokher Hut" Cow Selling System is the advanced "Hasil" counter, which ensures a seamless and secure cow purchasing experience. Cutting-edge technology and user-centric design work together to provide a smooth transaction process, instilling confidence in both buyers and sellers.
 
