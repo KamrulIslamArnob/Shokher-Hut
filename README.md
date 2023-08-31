@@ -1,15 +1,13 @@
-# Shokher-Hut
-An IoT based smart Cow Selling System during Eid al-Adha.
 
-![Shokher Hut Logo](/images/logo.png)
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
-## Project Overview
+# Shokher-Hut (An IoT based smart Cow Selling System during Eid al-Adha)
 
 The "Shokher Hut" project is an innovative IoT-based Cow Selling System aimed at revolutionizing the process of buying and selling cows in Bangladesh during the auspicious occasion of Eid al-Adha. This project integrates cutting-edge electronic features to enhance convenience, safety, and transparency for both buyers and sellers.
 
-## Features
+# Features
 
-### A. Computerized Hasil Counter
+### Computerized Hasil Counter
 
 1. **Streamlined and Secure Transactions:** The heart of the "Shokher Hut" Cow Selling System is the advanced "Hasil" counter, which ensures a seamless and secure cow purchasing experience. Cutting-edge technology and user-centric design work together to provide a smooth transaction process, instilling confidence in both buyers and sellers.
 
@@ -41,20 +39,19 @@ The "Shokher Hut" project is an innovative IoT-based Cow Selling System aimed at
 - **Convenient Pick-up:** Buyers enjoy hassle-free cow pick-up services, streamlining the process and enhancing satisfaction.
 - **Transparent Process:** The system enhances transparency, cultivating trust in the cow buying and selling journey during Eid al-Adha festivities.
 
-## Conclusion
+## Acknowledgements
 
-The "Shokher Hut" Cow Selling System is a harmonious blend of tradition and modernity, reshaping the landscape of Eid al-Adha cow trading in Bangladesh. By seamlessly integrating advanced electronic features, the project enhances efficiency while prioritizing cow welfare. This project demonstrates the power of technology to elevate practices, build trust, and enhance the overall experience for all participants, preserving cultural significance while embracing modernity.
+ - [Detaspace : The database documentation used in this project](https://deta.space/docs/en/)
 
-## About the Project
 
-The "Shokher Hut" Cow Selling System is an IoT-based electronics project aimed at transforming the cow buying and selling experience during Eid al-Adha in Bangladesh. This project is a convergence of technology and compassion, setting new standards in the realm of cattle trading.
+## Appendix
 
-For more information and updates, visit our website: [www.shokherhut.com](https://www.shokherhut.com)
+Here is the project report of this project. This report follows IEEE format and this project was done for Electronics Course.
 
-## Contact
+https://www.overleaf.com/read/wfqktdrkbzdk
 
-For inquiries, please reach out to our team at contact@shokherhut.com
+## Authors
 
----
+- [@KamrulIslamArnob](https://www.github.com/KamrulIslamArnob)
+If you have any feedback, please reach out to me at connect.arnob@gmail.com.com
 
-*Note: This README is a fictional creation based on the provided project overview. Please adapt and modify the content as needed to accurately reflect your project and its details.*
