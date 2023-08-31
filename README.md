@@ -1,5 +1,5 @@
 
-![Logo](Team-GenZ-gif.gif)
+![Logo](Team-GenZ.gif)
 
 # Shokher-Hut (An IoT based Smart Cow Selling Hut During Eid al-Adha)
 
