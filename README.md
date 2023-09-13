@@ -44,7 +44,7 @@ The "Shokher Hut" project is an innovative IoT-based Cow Selling System aimed at
 ## Acknowledgements
 
  - [Detaspace : The database documentation used in this project](https://deta.space/docs/en/)
-
+ - https://github.com/mobizt/ESP-Google-Sheet-Client
 
 ## Appendix
 
