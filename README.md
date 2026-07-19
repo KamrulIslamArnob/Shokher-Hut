@@ -114,6 +114,8 @@ Shokher-Hut/
 
 The frontend is a single-page application (SPA) built with React 19, Vite 7, and Material UI v7. It serves as the administrative dashboard for the Shokher Hut system.
 
+![Dashboard UI](UI.png)
+
 ### Pages & Routes
 
 | Route | Page Component | Description |
